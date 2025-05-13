@@ -1,4 +1,4 @@
-# hello_wrld
+# Blockchain Message Board
 
 ## Getting started 
 
@@ -31,4 +31,4 @@ npm run dev
 
 -----------
 
-@0xJonaseb11
+@Rukundo-Bahati
